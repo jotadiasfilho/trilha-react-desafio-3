@@ -40,8 +40,7 @@ const Login = () => {
         <Header />
         <Container>
             <Column>
-                <Title>A plataforma para você aprender com experts, dominar as principais tecnologias
-                 e entrar mais rápido nas empresas mais desejadas.</Title>
+                <Title>DIO | Codifique o seu futuro global agora</Title>
             </Column>
             <Column>
                 <Wrapper>
